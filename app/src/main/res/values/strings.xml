@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WELCOME</string>
+    <string name="welcome"><b>Добро Пожаловать!</b></string>
+    <string name="instruction">Выполните вход \n или зарегистрируйтесь</string>
+    <string name="to_come_in">Войти</string>
+    <string name="lost_password">Забыл пароль?</string>
+    <string name="click_here"><u>Нажми сюда</u></string>
+</resources>
